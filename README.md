@@ -9,7 +9,6 @@ M.Sc. Statistics, Aligarh Muslim University | B.Sc. Mathematics, Mahatma Gandhi 
 
 ### 🔭 Currently
 
-- Building a **multimodal fashion recommender** at **ISI Kolkata** — fusing Vision Transformers (ViT-B/16), BERT text encoding, and LightGCN collaborative filtering through a novel cross-modal attention architecture
 - Co-authoring a **systematic survey on multimodal fusion strategies** with Bennett University, targeting *Information Fusion* (Elsevier)
 - Working as an **Academic Associate at IIM Calcutta**, supporting postgraduate management courses
 
@@ -23,7 +22,7 @@ Multimodal learning · Recommender systems · Statistical modeling · Predictive
 
 | Project | Description | Result |
 |---|---|---|
-| **[Multimodal Fashion Recommender](#)** *(repo coming soon)* | ViT-B/16 + BERT + LightGCN, cross-modal attention fusion, contrastive learning, cold-start handling | Evaluated on Amazon Fashion (HR@10, NDCG@10, Precision@K) |
+| **[Multimodal Fashion Recommender](#)** | ViT-B/16 + BERT + LightGCN, cross-modal attention fusion, contrastive learning, cold-start handling | Evaluated on Amazon Fashion (HR@10, NDCG@10, Precision@K) |
 | **[Diabetes Risk Prediction](https://github.com/ts-safiya/diabetes-risk-prediction)** | Logistic Regression → XGBoost on NIDDK dataset | ROC-AUC: 0.87, F1: 0.79 |
 | **[Crude Oil Price Forecasting](https://github.com/ts-safiya/crude-oil-price-forecasting)** | SARIMAX vs. Random Forest vs. XGBoost, 5-fold TimeSeriesSplit CV | RMSE: 11.04, R²: 0.70 |
 | **[Taxi Route Recommender Replication](https://github.com/ts-safiya/taxi-route-recommender-replication)** | Independent replication of a GCN-LSTM taxi route recommender (INFORMS JoC paper) | — |
