@@ -23,7 +23,6 @@ Agentic AI · LLM agents · Multimodal learning · Recommender systems · Predic
 
 | Project | Description | Result |
 |---|---|---|
-| **[Your Agentic AI Project](#)** | *Short description: e.g. agent framework, tools, task domain* | *Key outcome* |
 | **[RAG Chatbot](https://github.com/ts-safiya/rag-chatbot-n8n-gemini-supabase)** | Context-aware chatbot: n8n + Gemini + Supabase pgvector | — |
 | **[Multimodal Fashion Recommender](#)** | ViT-B/16 + BERT + LightGCN, cross-modal attention fusion, contrastive learning, cold-start handling | Evaluated on Amazon Fashion (HR@10, NDCG@10, Precision@K) |
 | **[Diabetes Risk Prediction](https://github.com/ts-safiya/diabetes-risk-prediction)** | Logistic Regression → XGBoost on NIDDK dataset | ROC-AUC: 0.87, F1: 0.79 |
